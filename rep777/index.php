@@ -7,3 +7,9 @@
  */
 
 //********************))))))))))
+
+//git add .
+//commit -am 'commit2'
+//git checkout master
+//gi
+
